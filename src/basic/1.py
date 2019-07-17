@@ -17,4 +17,3 @@ if __name__ == '__main__':
     w.show()
     # 进入程序的主循环，并通过exit函数确保主循环安全结束
     sys.exit(app.exec_())
-
