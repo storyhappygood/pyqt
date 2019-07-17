@@ -1,6 +1,7 @@
 import sys
 from PyQt5.QtWidgets import QWidget, QApplication
 
+
 if __name__ == '__main__':
     # 创建QApplication的实例
     app = QApplication(sys.argv)
