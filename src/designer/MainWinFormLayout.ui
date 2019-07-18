@@ -17,10 +17,10 @@
    <widget class="QWidget" name="formLayoutWidget">
     <property name="geometry">
      <rect>
-      <x>250</x>
-      <y>40</y>
-      <width>160</width>
-      <height>85</height>
+      <x>90</x>
+      <y>280</y>
+      <width>261</width>
+      <height>171</height>
      </rect>
     </property>
     <layout class="QFormLayout" name="formLayout_2">
@@ -32,7 +32,7 @@
       </widget>
      </item>
      <item row="0" column="1">
-      <widget class="QLineEdit" name="lineEdit_4"/>
+      <widget class="QLineEdit" name="lineEdit_5"/>
      </item>
      <item row="1" column="0">
       <widget class="QLabel" name="label_7">
@@ -44,25 +44,15 @@
      <item row="1" column="1">
       <widget class="QLineEdit" name="lineEdit_6"/>
      </item>
-     <item row="2" column="0">
-      <widget class="QLabel" name="label_8">
-       <property name="text">
-        <string>TextLabel</string>
-       </property>
-      </widget>
-     </item>
-     <item row="2" column="1">
-      <widget class="QLineEdit" name="lineEdit_7"/>
-     </item>
     </layout>
    </widget>
    <widget class="QWidget" name="">
     <property name="geometry">
      <rect>
-      <x>50</x>
-      <y>50</y>
-      <width>161</width>
-      <height>147</height>
+      <x>90</x>
+      <y>70</y>
+      <width>211</width>
+      <height>161</height>
      </rect>
     </property>
     <layout class="QFormLayout" name="formLayout">
@@ -111,7 +101,7 @@
       </widget>
      </item>
      <item row="4" column="1">
-      <widget class="QLineEdit" name="lineEdit_5"/>
+      <widget class="QLineEdit" name="lineEdit_4"/>
      </item>
      <item row="3" column="1">
       <widget class="QComboBox" name="comboBox"/>
