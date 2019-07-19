@@ -29,6 +29,8 @@ class Ui_MainWindow(object):
         self.radioButton.setObjectName("radioButton")
         self.gridLayout.addWidget(self.radioButton, 2, 3, 1, 1)
         self.pushButton = QtWidgets.QPushButton(self.gridLayoutWidget)
+        print(self.pushButton.sizeHint().width())
+        print(self.pushButton.sizeHint().height())
         self.pushButton.setObjectName("pushButton")
         self.gridLayout.addWidget(self.pushButton, 0, 0, 1, 1)
         self.toolButton = QtWidgets.QToolButton(self.gridLayoutWidget)
